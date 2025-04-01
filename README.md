@@ -15,8 +15,8 @@ Node.js
 
 Si deseas clonar el proyecto desde GitHub, ejecuta:
 
-  git clone https://github.com/tu_usuario/tu_repositorio.git
-  cd tu_repositorio
+  git clone https://github.com/britezmilu0/Multiplicacion_Matrices.git
+  
 
 2️⃣ Instalar Dependencias
 
